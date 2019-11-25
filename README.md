@@ -1,7 +1,7 @@
 # Running PSA Attestation examples on Mbed OS
 This repository contains an example demonstrating the compilation and use of PSA Attestation on Mbed OS.
 
-Example contained within this repository is inject attestation key-pair, get attetstaion token size and attetstaion token.
+Example contained within this repository is inject attestation key-pair, get attestation token size and attestation token.
 
 ## Prerequisites
 * Install <a href='https://github.com/ARMmbed/mbed-cli#installing-mbed-cli'>Mbed CLI</a>
@@ -27,7 +27,7 @@ Once the compilation is completed successfully a binary file will be created: `.
 
 The expected output from a successful execution of the example program should be as follows:
 ```
-Get attestation tGet attestation token:
+Get attestation token:
         success!
 ```
 
